@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Chucknorris_App/static/css/main.f934c081.chunk.css",
-    "main.js": "/Chucknorris_App/static/js/main.975066e9.chunk.js",
-    "main.js.map": "/Chucknorris_App/static/js/main.975066e9.chunk.js.map",
+    "main.js": "/Chucknorris_App/static/js/main.c84d1428.chunk.js",
+    "main.js.map": "/Chucknorris_App/static/js/main.c84d1428.chunk.js.map",
     "runtime-main.js": "/Chucknorris_App/static/js/runtime-main.dc164e0c.js",
     "runtime-main.js.map": "/Chucknorris_App/static/js/runtime-main.dc164e0c.js.map",
     "static/js/2.22e60286.chunk.js": "/Chucknorris_App/static/js/2.22e60286.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dc164e0c.js",
     "static/js/2.22e60286.chunk.js",
     "static/css/main.f934c081.chunk.css",
-    "static/js/main.975066e9.chunk.js"
+    "static/js/main.c84d1428.chunk.js"
   ]
 }
